@@ -6,3 +6,4 @@ Hi there 👋, I'm Harsh
 🚀 Exploring projects in Python, C++ and Any building hands-on skills.
 ⚡ Tech enthusiast who enjoys combining logic, problem-solving, and creativity.
 Programming: Python, C++
+thanks
